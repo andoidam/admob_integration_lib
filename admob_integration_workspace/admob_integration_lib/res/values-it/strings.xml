@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">Valuta questa applicazione</string> 
+<string name="facebook_page_title">Come pagina Facebook</string> 
+<string name="share_app">Condividi app</string> 
+<string name="exit_app">uscita</string> 
+<string name="return_to_app">Torna a app</string> 
+<string name="show_other_app">Prova altre applicazioni</string> 
+<string name="share_via">Condividi via</string> 
+<string name="share_app_message">Ho trovato questo app interessante, provalo</string> 
+<string name="exit_message">Sei sicuro di voler uscire?</string> 
+<string name="rate_dialog_title">Vota!</string> 
+<string name="rate_dialog_message">Grazie a prendere tempo per valutare questa applicazione, ciò contribuirà a migliorare le applicazioni e per renderlo più divertente!</string> 
+<string name="rate_dialog_ok">OK</string> 
+<string name="rate_dialog_cancel">cancellare</string> 
+<string name="rate_dialog_itsok">ho fatto</string> 
+<string name="rate_dialog_yes">sì</string> 
+</resources>

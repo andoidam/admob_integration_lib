@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">Çıkışta önce:</string> 
+<string name="facebook_page_title">Bu uygulamayı oylayın</string> 
+<string name="share_app">Facebook sayfası gibi</string> 
+<string name="exit_app">Hisse uygulaması</string> 
+<string name="return_to_app">çıkış</string> 
+<string name="show_other_app">App dönmek</string> 
+<string name="share_via">Diğer uygulamaları deneyin</string> 
+<string name="share_app_message">ile paylaş</string> 
+<string name="exit_message">Ben ilginç bu app bulduk, bunu denemek</string> 
+<string name="rate_dialog_title">Çıkmak istediğinize emin misiniz?</string> 
+<string name="rate_dialog_message">Puan!</string> 
+<string name="rate_dialog_ok">Teşekkürler bu uygulamayı değerlendirmek için zaman ayırın, bunu geliştirmek ve daha eğlenceli hale getirmek için uygulamalar yardımcı olacaktır!</string> 
+<string name="rate_dialog_cancel">tamam</string> 
+<string name="rate_dialog_itsok">iptal</string> 
+<string name="rate_dialog_yes">yaptım</string> 
+</resources>

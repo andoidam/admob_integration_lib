@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">終了する前に：</string> 
+<string name="facebook_page_title">このアプリを評価</string> 
+<string name="share_app">Facebookページのような</string> 
+<string name="exit_app">共有アプリ</string> 
+<string name="return_to_app">出口</string> 
+<string name="show_other_app">アプリに戻ります</string> 
+<string name="share_via">他のアプリを試してみてください</string> 
+<string name="share_app_message">を介して共有します</string> 
+<string name="exit_message">私は面白い、このアプリを発見した、それを試してみてください</string> 
+<string name="rate_dialog_title">あなたが終了してもよろしいですか？</string> 
+<string name="rate_dialog_message">率！</string> 
+<string name="rate_dialog_ok">おかげで、このアプリを評価するために時間を取るために、これはそれを改善するために、それがより楽しくするためにアプリを助けます！</string> 
+<string name="rate_dialog_cancel">OK</string> 
+<string name="rate_dialog_itsok">キャンセル</string> 
+<string name="rate_dialog_yes">私がやりました</string> 
+</resources>

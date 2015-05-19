@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">Voor exit:</string> 
+<string name="facebook_page_title">Beoordeel deze app</string> 
+<string name="share_app">Net als Facebook-pagina</string> 
+<string name="exit_app">Delen app</string> 
+<string name="return_to_app">afrit</string> 
+<string name="show_other_app">Keer terug naar app</string> 
+<string name="share_via">Probeer andere apps</string> 
+<string name="share_app_message">Delen via</string> 
+<string name="exit_message">Ik heb deze app interessant gevonden, probeer het</string> 
+<string name="rate_dialog_title">Weet u zeker dat u wilt afsluiten?</string> 
+<string name="rate_dialog_message">Rate!</string> 
+<string name="rate_dialog_ok">Dankzij de tijd nemen om deze app waarderen, zal deze apps helpen om het te verbeteren en om het nog leuker te maken!</string> 
+<string name="rate_dialog_cancel">oK</string> 
+<string name="rate_dialog_itsok">annuleren</string> 
+<string name="rate_dialog_yes">ik deed</string> 
+</resources>

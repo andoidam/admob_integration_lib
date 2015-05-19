@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">退出之前：</string> 
+<string name="facebook_page_title">评价这个应用程序</string> 
+<string name="share_app">像Facebook页面</string> 
+<string name="exit_app">分享应用程序</string> 
+<string name="return_to_app">出口</string> 
+<string name="show_other_app">返回到应用程序</string> 
+<string name="share_via">尝试其他应用程序</string> 
+<string name="share_app_message">通过分享</string> 
+<string name="exit_message">我发现这个有趣的应用程序，试试吧</string> 
+<string name="rate_dialog_title">你确定要退出？</string> 
+<string name="rate_dialog_message">速度！</string> 
+<string name="rate_dialog_ok">由于需要时间来评价这个应用程序，这将有助于应用程序来改善它，并使它更有趣！</string> 
+<string name="rate_dialog_cancel">行</string> 
+<string name="rate_dialog_itsok">取消</string> 
+<string name="rate_dialog_yes">我做</string> 
+</resources>
