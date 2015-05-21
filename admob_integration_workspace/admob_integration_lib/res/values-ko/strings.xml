@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="share_on_options">종료하기 전에 :</string> 
 <string name="rate_this_app">이 응용 프로그램을 평가</string> 
 <string name="facebook_page_title">페이스 북 페이지를 좋아합니다</string> 
 <string name="share_app">공유 응용 프로그램</string> 

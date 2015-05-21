@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">Оцените это приложение</string> 
+<string name="facebook_page_title">Как Facebook страницы</string> 
+<string name="share_app">Доля приложение</string> 
+<string name="exit_app">выход</string> 
+<string name="return_to_app">Вернуться к приложение</string> 
+<string name="show_other_app">Попробуйте другие приложения</string> 
+<string name="share_via">Поделиться с помощью</string> 
+<string name="share_app_message">Я нашел это приложение интересным, попробуйте</string> 
+<string name="exit_message">Вы уверены, что хотите выйти?</string> 
+<string name="rate_dialog_title">Оценить!</string> 
+<string name="rate_dialog_message">Благодаря потребуется время, чтобы оценить это приложение, это поможет приложения для улучшения его и сделать его более увлекательным!</string> 
+<string name="rate_dialog_ok">ОК</string> 
+<string name="rate_dialog_cancel">отменить</string> 
+<string name="rate_dialog_itsok">я сделал</string> 
+<string name="rate_dialog_yes">Да</string> 
+</resources>

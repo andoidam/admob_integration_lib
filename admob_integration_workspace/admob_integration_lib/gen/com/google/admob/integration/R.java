@@ -394,40 +394,40 @@ containing a value of this type.
         public static int zOrderOnTop=0x7f010014;
     }
     public static final class color {
-        public static int common_action_bar_splitter=0x7f070009;
+        public static int common_action_bar_splitter=0x7f080009;
         /**  Sign-in Button Colors 
          */
-        public static int common_signin_btn_dark_text_default=0x7f070000;
-        public static int common_signin_btn_dark_text_disabled=0x7f070002;
-        public static int common_signin_btn_dark_text_focused=0x7f070003;
-        public static int common_signin_btn_dark_text_pressed=0x7f070001;
-        public static int common_signin_btn_default_background=0x7f070008;
-        public static int common_signin_btn_light_text_default=0x7f070004;
-        public static int common_signin_btn_light_text_disabled=0x7f070006;
-        public static int common_signin_btn_light_text_focused=0x7f070007;
-        public static int common_signin_btn_light_text_pressed=0x7f070005;
-        public static int common_signin_btn_text_dark=0x7f070017;
-        public static int common_signin_btn_text_light=0x7f070018;
-        public static int wallet_bright_foreground_disabled_holo_light=0x7f07000f;
+        public static int common_signin_btn_dark_text_default=0x7f080000;
+        public static int common_signin_btn_dark_text_disabled=0x7f080002;
+        public static int common_signin_btn_dark_text_focused=0x7f080003;
+        public static int common_signin_btn_dark_text_pressed=0x7f080001;
+        public static int common_signin_btn_default_background=0x7f080008;
+        public static int common_signin_btn_light_text_default=0x7f080004;
+        public static int common_signin_btn_light_text_disabled=0x7f080006;
+        public static int common_signin_btn_light_text_focused=0x7f080007;
+        public static int common_signin_btn_light_text_pressed=0x7f080005;
+        public static int common_signin_btn_text_dark=0x7f080017;
+        public static int common_signin_btn_text_light=0x7f080018;
+        public static int wallet_bright_foreground_disabled_holo_light=0x7f08000f;
         /** 
          Wallet colors to support consistent Wallet fragment holo dark UI in client application
          regardless of the theme and device type
     
          */
-        public static int wallet_bright_foreground_holo_dark=0x7f07000a;
-        public static int wallet_bright_foreground_holo_light=0x7f070010;
-        public static int wallet_dim_foreground_disabled_holo_dark=0x7f07000c;
-        public static int wallet_dim_foreground_holo_dark=0x7f07000b;
-        public static int wallet_dim_foreground_inverse_disabled_holo_dark=0x7f07000e;
-        public static int wallet_dim_foreground_inverse_holo_dark=0x7f07000d;
-        public static int wallet_highlighted_text_holo_dark=0x7f070014;
-        public static int wallet_highlighted_text_holo_light=0x7f070013;
-        public static int wallet_hint_foreground_holo_dark=0x7f070012;
-        public static int wallet_hint_foreground_holo_light=0x7f070011;
-        public static int wallet_holo_blue_light=0x7f070015;
-        public static int wallet_link_text_light=0x7f070016;
-        public static int wallet_primary_text_holo_light=0x7f070019;
-        public static int wallet_secondary_text_holo_dark=0x7f07001a;
+        public static int wallet_bright_foreground_holo_dark=0x7f08000a;
+        public static int wallet_bright_foreground_holo_light=0x7f080010;
+        public static int wallet_dim_foreground_disabled_holo_dark=0x7f08000c;
+        public static int wallet_dim_foreground_holo_dark=0x7f08000b;
+        public static int wallet_dim_foreground_inverse_disabled_holo_dark=0x7f08000e;
+        public static int wallet_dim_foreground_inverse_holo_dark=0x7f08000d;
+        public static int wallet_highlighted_text_holo_dark=0x7f080014;
+        public static int wallet_highlighted_text_holo_light=0x7f080013;
+        public static int wallet_hint_foreground_holo_dark=0x7f080012;
+        public static int wallet_hint_foreground_holo_light=0x7f080011;
+        public static int wallet_holo_blue_light=0x7f080015;
+        public static int wallet_link_text_light=0x7f080016;
+        public static int wallet_primary_text_holo_light=0x7f080019;
+        public static int wallet_secondary_text_holo_dark=0x7f08001a;
     }
     public static final class drawable {
         public static int common_full_open_on_phone=0x7f020000;
@@ -464,37 +464,37 @@ containing a value of this type.
         public static int powered_by_google_light=0x7f02001f;
     }
     public static final class id {
-        public static int adjust_height=0x7f090000;
-        public static int adjust_width=0x7f090001;
-        public static int book_now=0x7f090010;
-        public static int buyButton=0x7f09000c;
-        public static int buy_now=0x7f090011;
-        public static int buy_with_google=0x7f090012;
-        public static int classic=0x7f090014;
-        public static int donate_with_google=0x7f090013;
-        public static int grayscale=0x7f090015;
-        public static int holo_dark=0x7f090007;
-        public static int holo_light=0x7f090008;
-        public static int hybrid=0x7f090003;
-        public static int ivSkImageApp=0x7f090018;
-        public static int lvSkAppList=0x7f09001b;
-        public static int match_parent=0x7f09000e;
-        public static int monochrome=0x7f090016;
-        public static int none=0x7f090002;
-        public static int normal=0x7f090004;
-        public static int production=0x7f090009;
-        public static int sandbox=0x7f09000a;
-        public static int satellite=0x7f090005;
-        public static int selectionDetails=0x7f09000d;
-        public static int slide=0x7f090017;
-        public static int strict_sandbox=0x7f09000b;
-        public static int terrain=0x7f090006;
-        public static int tvSkDescriptionApp=0x7f09001a;
-        public static int tvSkTitleApp=0x7f090019;
-        public static int wrap_content=0x7f09000f;
+        public static int adjust_height=0x7f070002;
+        public static int adjust_width=0x7f070001;
+        public static int book_now=0x7f070012;
+        public static int buyButton=0x7f07000c;
+        public static int buy_now=0x7f070011;
+        public static int buy_with_google=0x7f070010;
+        public static int classic=0x7f070014;
+        public static int donate_with_google=0x7f070013;
+        public static int grayscale=0x7f070015;
+        public static int holo_dark=0x7f070007;
+        public static int holo_light=0x7f070008;
+        public static int hybrid=0x7f070006;
+        public static int ivSkImageApp=0x7f070018;
+        public static int lvSkAppList=0x7f07001b;
+        public static int match_parent=0x7f07000e;
+        public static int monochrome=0x7f070016;
+        public static int none=0x7f070000;
+        public static int normal=0x7f070003;
+        public static int production=0x7f070009;
+        public static int sandbox=0x7f07000a;
+        public static int satellite=0x7f070004;
+        public static int selectionDetails=0x7f07000d;
+        public static int slide=0x7f070017;
+        public static int strict_sandbox=0x7f07000b;
+        public static int terrain=0x7f070005;
+        public static int tvSkDescriptionApp=0x7f07001a;
+        public static int tvSkTitleApp=0x7f070019;
+        public static int wrap_content=0x7f07000f;
     }
     public static final class integer {
-        public static int google_play_services_version=0x7f080000;
+        public static int google_play_services_version=0x7f090000;
     }
     public static final class layout {
         public static int sk_apps_row=0x7f030000;
@@ -505,9 +505,10 @@ containing a value of this type.
     }
     public static final class string {
         public static int accept=0x7f060002;
-        public static int admob_banner=0x7f060027;
-        public static int admob_interstitial=0x7f060028;
-        public static int admob_test=0x7f060026;
+        public static int admob_banner=0x7f060028;
+        public static int admob_interstitial=0x7f060029;
+        public static int admob_test=0x7f060027;
+        public static int app_name=0x7f060026;
         /**   Text for notification shown when the Android Wear apps needs to be updated. Only shown on the wearable. [CHAR LIMIT=NONE] 
          */
         public static int common_android_wear_notification_needs_update_text=0x7f060009;
@@ -619,27 +620,27 @@ containing a value of this type.
         public static int create_calendar_message=0x7f060005;
         public static int create_calendar_title=0x7f060004;
         public static int decline=0x7f060003;
-        public static int exit_app=0x7f060030;
-        public static int exit_message=0x7f060035;
-        public static int facebook_id=0x7f06002a;
-        public static int facebook_page_title=0x7f06002e;
-        public static int google_analytics=0x7f060029;
-        public static int rate_dialog_cancel=0x7f060039;
-        public static int rate_dialog_itsok=0x7f06003a;
-        public static int rate_dialog_message=0x7f060037;
-        public static int rate_dialog_ok=0x7f060038;
-        public static int rate_dialog_title=0x7f060036;
-        public static int rate_dialog_yes=0x7f06003b;
-        public static int rate_this_app=0x7f06002d;
-        public static int return_to_app=0x7f060031;
-        public static int share_app=0x7f06002f;
-        public static int share_app_message=0x7f060034;
-        public static int share_on_options=0x7f06002c;
-        public static int share_via=0x7f060033;
-        public static int show_other_app=0x7f060032;
+        public static int exit_app=0x7f060031;
+        public static int exit_message=0x7f060036;
+        public static int facebook_id=0x7f06002b;
+        public static int facebook_page_title=0x7f06002f;
+        public static int google_analytics=0x7f06002a;
+        public static int rate_dialog_cancel=0x7f06003a;
+        public static int rate_dialog_itsok=0x7f06003b;
+        public static int rate_dialog_message=0x7f060038;
+        public static int rate_dialog_ok=0x7f060039;
+        public static int rate_dialog_title=0x7f060037;
+        public static int rate_dialog_yes=0x7f06003c;
+        public static int rate_this_app=0x7f06002e;
+        public static int return_to_app=0x7f060032;
+        public static int share_app=0x7f060030;
+        public static int share_app_message=0x7f060035;
+        public static int share_on_options=0x7f06002d;
+        public static int share_via=0x7f060034;
+        public static int show_other_app=0x7f060033;
         public static int store_picture_message=0x7f060001;
         public static int store_picture_title=0x7f060000;
-        public static int user_play_name=0x7f06002b;
+        public static int user_play_name=0x7f06002c;
         /**  Text on a placeholder buy button when Google Play services is not
          available or up-to-date 
          */
@@ -696,7 +697,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:adSize
         */
-        public static int AdsAttrs_adSize = 0;
+        public static final int AdsAttrs_adSize = 0;
         /**
           <p>
           @attr description
@@ -716,7 +717,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:adSizes
         */
-        public static int AdsAttrs_adSizes = 1;
+        public static final int AdsAttrs_adSizes = 1;
         /**
           <p>
           @attr description
@@ -732,7 +733,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:adUnitId
         */
-        public static int AdsAttrs_adUnitId = 2;
+        public static final int AdsAttrs_adUnitId = 2;
         /**  Attributes that can be specified to define a custom theme 
            <p>Includes the following attributes:</p>
            <table>
@@ -764,7 +765,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:windowTransitionStyle
         */
-        public static int CustomWalletTheme_windowTransitionStyle = 0;
+        public static final int CustomWalletTheme_windowTransitionStyle = 0;
         /**  Attributes for LoadingImageView 
            <p>Includes the following attributes:</p>
            <table>
@@ -803,7 +804,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:circleCrop
         */
-        public static int LoadingImageView_circleCrop = 2;
+        public static final int LoadingImageView_circleCrop = 2;
         /**
           <p>
           @attr description
@@ -821,7 +822,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:imageAspectRatio
         */
-        public static int LoadingImageView_imageAspectRatio = 1;
+        public static final int LoadingImageView_imageAspectRatio = 1;
         /**
           <p>
           @attr description
@@ -844,7 +845,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:imageAspectRatioAdjust
         */
-        public static int LoadingImageView_imageAspectRatioAdjust = 0;
+        public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MapAttrs.
            <p>Includes the following attributes:</p>
            <table>
@@ -904,7 +905,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:cameraBearing
         */
-        public static int MapAttrs_cameraBearing = 1;
+        public static final int MapAttrs_cameraBearing = 1;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -918,7 +919,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:cameraTargetLat
         */
-        public static int MapAttrs_cameraTargetLat = 2;
+        public static final int MapAttrs_cameraTargetLat = 2;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -932,7 +933,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:cameraTargetLng
         */
-        public static int MapAttrs_cameraTargetLng = 3;
+        public static final int MapAttrs_cameraTargetLng = 3;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -946,7 +947,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:cameraTilt
         */
-        public static int MapAttrs_cameraTilt = 4;
+        public static final int MapAttrs_cameraTilt = 4;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -960,7 +961,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:cameraZoom
         */
-        public static int MapAttrs_cameraZoom = 5;
+        public static final int MapAttrs_cameraZoom = 5;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#liteMode}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -974,7 +975,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:liteMode
         */
-        public static int MapAttrs_liteMode = 6;
+        public static final int MapAttrs_liteMode = 6;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -994,7 +995,7 @@ containing a value of this type.
 </table>
           @attr name com.google.admob.integration:mapType
         */
-        public static int MapAttrs_mapType = 0;
+        public static final int MapAttrs_mapType = 0;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1008,7 +1009,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiCompass
         */
-        public static int MapAttrs_uiCompass = 7;
+        public static final int MapAttrs_uiCompass = 7;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiMapToolbar}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1022,7 +1023,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiMapToolbar
         */
-        public static int MapAttrs_uiMapToolbar = 15;
+        public static final int MapAttrs_uiMapToolbar = 15;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1036,7 +1037,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiRotateGestures
         */
-        public static int MapAttrs_uiRotateGestures = 8;
+        public static final int MapAttrs_uiRotateGestures = 8;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1050,7 +1051,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiScrollGestures
         */
-        public static int MapAttrs_uiScrollGestures = 9;
+        public static final int MapAttrs_uiScrollGestures = 9;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1064,7 +1065,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiTiltGestures
         */
-        public static int MapAttrs_uiTiltGestures = 10;
+        public static final int MapAttrs_uiTiltGestures = 10;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1078,7 +1079,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiZoomControls
         */
-        public static int MapAttrs_uiZoomControls = 11;
+        public static final int MapAttrs_uiZoomControls = 11;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1092,7 +1093,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:uiZoomGestures
         */
-        public static int MapAttrs_uiZoomGestures = 12;
+        public static final int MapAttrs_uiZoomGestures = 12;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1106,7 +1107,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:useViewLifecycle
         */
-        public static int MapAttrs_useViewLifecycle = 13;
+        public static final int MapAttrs_useViewLifecycle = 13;
         /**
           <p>This symbol is the offset where the {@link com.google.admob.integration.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -1120,7 +1121,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.admob.integration:zOrderOnTop
         */
-        public static int MapAttrs_zOrderOnTop = 14;
+        public static final int MapAttrs_zOrderOnTop = 14;
         /**  Attributes for the WalletFragment &lt;fragment&gt; tag 
            <p>Includes the following attributes:</p>
            <table>
@@ -1158,7 +1159,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:appTheme
         */
-        public static int WalletFragmentOptions_appTheme = 0;
+        public static final int WalletFragmentOptions_appTheme = 0;
         /**
           <p>
           @attr description
@@ -1178,7 +1179,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:environment
         */
-        public static int WalletFragmentOptions_environment = 1;
+        public static final int WalletFragmentOptions_environment = 1;
         /**
           <p>
           @attr description
@@ -1197,7 +1198,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:fragmentMode
         */
-        public static int WalletFragmentOptions_fragmentMode = 3;
+        public static final int WalletFragmentOptions_fragmentMode = 3;
         /**
           <p>
           @attr description
@@ -1209,7 +1210,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:fragmentStyle
         */
-        public static int WalletFragmentOptions_fragmentStyle = 2;
+        public static final int WalletFragmentOptions_fragmentStyle = 2;
         /**  Attributes that may be specified in a style resource to customize the look and feel of
          WalletFragment 
            <p>Includes the following attributes:</p>
@@ -1265,7 +1266,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:buyButtonAppearance
         */
-        public static int WalletFragmentStyle_buyButtonAppearance = 3;
+        public static final int WalletFragmentStyle_buyButtonAppearance = 3;
         /**
           <p>
           @attr description
@@ -1294,7 +1295,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:buyButtonHeight
         */
-        public static int WalletFragmentStyle_buyButtonHeight = 0;
+        public static final int WalletFragmentStyle_buyButtonHeight = 0;
         /**
           <p>
           @attr description
@@ -1315,7 +1316,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:buyButtonText
         */
-        public static int WalletFragmentStyle_buyButtonText = 2;
+        public static final int WalletFragmentStyle_buyButtonText = 2;
         /**
           <p>
           @attr description
@@ -1344,7 +1345,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:buyButtonWidth
         */
-        public static int WalletFragmentStyle_buyButtonWidth = 1;
+        public static final int WalletFragmentStyle_buyButtonWidth = 1;
         /**
           <p>
           @attr description
@@ -1358,7 +1359,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsBackground
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
+        public static final int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
         /**
           <p>
           @attr description
@@ -1372,7 +1373,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsButtonBackground
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
+        public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
         /**
           <p>
           @attr description
@@ -1384,7 +1385,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsButtonTextAppearance
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
+        public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
         /**
           <p>
           @attr description
@@ -1396,7 +1397,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsHeaderTextAppearance
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
+        public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
         /**
           <p>
           @attr description
@@ -1415,7 +1416,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsLogoImageType
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
+        public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
         /**
           <p>
           @attr description
@@ -1432,7 +1433,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsLogoTextColor
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
+        public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
         /**
           <p>
           @attr description
@@ -1444,6 +1445,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.admob.integration:maskedWalletDetailsTextAppearance
         */
-        public static int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
+        public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
     };
 }

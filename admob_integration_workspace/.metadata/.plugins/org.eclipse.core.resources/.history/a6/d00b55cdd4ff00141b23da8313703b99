@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="share_on_options">Before exit : </string> 
+<string name="rate_this_app">এই অ্যাপ্লিকেশানটির রেট দিন</string> 
+<string name="facebook_page_title">ফেসবুক পাতা</string> 
+<string name="share_app">সেয়ার অ্যাপ্লিকেশন</string> 
+<string name="exit_app">প্রস্থান</string> 
+<string name="return_to_app">অ্যাপ্লিকেশন থেকে ফিরে</string> 
+<string name="show_other_app">অন্যান্য অ্যাপ্লিকেশন ব্যবহার করে দেখুন</string> 
+<string name="share_via">মাধ্যমে শেয়ার</string> 
+<string name="share_app_message">আমি আকর্ষণীয় এই অ্যাপ্লিকেশন পাওয়া যায়, এটা চেষ্টা</string> 
+<string name="exit_message">আপনি কি নিশ্চিত যে প্রস্থান করবেন?</string> 
+<string name="rate_dialog_title">হার!</string> 
+<string name="rate_dialog_message">ধন্যবাদ এই অ্যাপ্লিকেশন রেট দিতে সময় লাগবে, এই আরও উন্নত এবং এটি আরো মজা করা অ্যাপ্লিকেশন সাহায্য করবে!</string> 
+<string name="rate_dialog_ok">ঠিক আছে</string> 
+<string name="rate_dialog_cancel">বাতিল</string> 
+<string name="rate_dialog_itsok">আমি করেছিলাম</string> 
+<string name="rate_dialog_yes">হাঁ</string> 
+</resources>

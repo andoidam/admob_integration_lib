@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+	
+	<string name="app_name">integration_admob_lib</string>
     <string name="admob_test">0</string>
     <string name="admob_banner">EM</string>
     <string name="admob_interstitial">EM</string>

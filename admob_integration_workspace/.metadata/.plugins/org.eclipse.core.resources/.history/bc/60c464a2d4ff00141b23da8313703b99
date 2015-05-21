@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">इस ऐप्लिकेशन को रेट करें</string> 
+<string name="facebook_page_title">फेसबुक पेज की तरह</string> 
+<string name="share_app">ऐप साझा करें</string> 
+<string name="exit_app">बाहर जाएं</string> 
+<string name="return_to_app">App करने के लिए लौटें</string> 
+<string name="show_other_app">अन्य क्षुधा की कोशिश करो</string> 
+<string name="share_via">के माध्यम से बाँटे</string> 
+<string name="share_app_message">मैं दिलचस्प इस एप्लिकेशन को मिल गया है, इसे करने की कोशिश</string> 
+<string name="exit_message">क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?</string> 
+<string name="rate_dialog_title">दर!</string> 
+<string name="rate_dialog_message">धन्यवाद इस एप्लिकेशन को रेट करने के लिए समय लेने के लिए, यह सुधार करने के लिए और इसे और अधिक मजेदार बनाने के लिए क्षुधा में मदद मिलेगी!</string> 
+<string name="rate_dialog_ok">ठीक</string> 
+<string name="rate_dialog_cancel">रद्द</string> 
+<string name="rate_dialog_itsok">मैंने किया</string> 
+<string name="rate_dialog_yes">हां</string> 
+</resources>

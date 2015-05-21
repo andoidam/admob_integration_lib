@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="share_on_options">Перед выходом: </string> 
 <string name="rate_this_app">Оцените это приложение</string> 
 <string name="facebook_page_title">Как Facebook страницы</string> 
 <string name="share_app">Доля приложение</string> 

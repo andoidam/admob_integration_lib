@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">قيم هذا التطبيق</string> 
+<string name="facebook_page_title">تابع صفحة الفيسبوك</string> 
+<string name="share_app">شارك التطبيق</string> 
+<string name="exit_app">خروج</string> 
+<string name="return_to_app">العودة إلى التطبيق</string> 
+<string name="show_other_app">جرب تطبيقات أخرى</string> 
+<string name="share_via">شارك عبر</string> 
+<string name="share_app_message">لقد وجدت هذا التطبيق مثيراً للإهتمام، أدعوك لتجربته</string> 
+<string name="exit_message">هل أنت متأكد أنك تريد الخروج؟</string> 
+<string name="rate_dialog_title">تقييم التطبيق</string> 
+<string name="rate_dialog_message">خذ هنيهةً من وقتك بإعطائنا رأيك حول هذا التطبيق وتقييمه، هذا سيمكننا من تطويره للأفضل !</string> 
+<string name="rate_dialog_ok">حسنا</string> 
+<string name="rate_dialog_cancel">إلغاء</string> 
+<string name="rate_dialog_itsok">لقد تم</string> 
+<string name="rate_dialog_yes">نعم</string> 
+</resources>

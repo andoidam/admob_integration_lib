@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="share_on_options">Antes de la salida:</string> 
 <string name="rate_this_app">Califica esta aplicación</string> 
 <string name="facebook_page_title">Al igual que la página de Facebook</string> 
 <string name="share_app">Acciones de aplicaciones</string> 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rate_this_app">이 응용 프로그램을 평가</string> 
+<string name="facebook_page_title">페이스 북 페이지를 좋아합니다</string> 
+<string name="share_app">공유 응용 프로그램</string> 
+<string name="exit_app">출구</string> 
+<string name="return_to_app">애플로 돌아 가기</string> 
+<string name="show_other_app">다른 앱을보십시오</string> 
+<string name="share_via">를 통해 공유</string> 
+<string name="share_app_message">내가 흥미있는이 응용 프로그램을 발견, 그것을 시도</string> 
+<string name="exit_message">당신은 당신이 종료 하시겠습니까?</string> 
+<string name="rate_dialog_title">평가하기!</string> 
+<string name="rate_dialog_message">덕분에이 응용 프로그램을 평가하려면 시간이 걸릴,이 그것을 개선하고 더 재미 있도록 앱을 도움이됩니다!</string> 
+<string name="rate_dialog_ok">확인</string> 
+<string name="rate_dialog_cancel">취소</string> 
+<string name="rate_dialog_itsok">내가 그랬어</string> 
+<string name="rate_dialog_yes">예</string> 
+</resources>

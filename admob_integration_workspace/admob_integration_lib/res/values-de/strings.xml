@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="share_on_options">Vor der Abfahrt:</string> 
 <string name="rate_this_app">Bewerte diese App</string> 
 <string name="facebook_page_title">Wie Facebook-Seite</string> 
 <string name="share_app">Teilen App</string> 
